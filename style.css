@@ -1,6 +1,6 @@
 body{
-    background: rgb(230,255,255);
-    background: linear-gradient(90deg, rgba(230,255,255,1) 0%, rgba(193,243,255,1) 35%, rgba(191,242,255,1) 65%, rgba(230,255,255,1) 100%);
+    background: rgb(152,152,152);
+    background: linear-gradient(90deg, rgba(152,152,152,1) 0%, rgba(79,79,79,1) 50%, rgba(152,152,152,1) 100%);
 }
 
 nav{

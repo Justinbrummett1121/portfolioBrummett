@@ -44,7 +44,7 @@ nav{
 .projects{
     width: 100%;
     max-width: 98%;
-    height: 500px;
+    height: 1000px;
 }
 
 .cssCreature{
@@ -63,6 +63,24 @@ nav{
 }
 
 .staticWebpage img{
+    float: left;
+}
+
+.animeList{
+    width: 100%;
+    max-width: 95%;
+}
+
+.animeList img{
+    float: left;
+}
+
+.mbTrails{
+    width: 100%;
+    max-width: 95%;
+}
+
+.mbTrails img{
     float: left;
 }
 
